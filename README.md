@@ -1,4 +1,4 @@
-# SQL_data_warehouse and Analytics project**repository!
+# SQL_data_warehouse and Analytics project**repository!**
 Buliding a datawarehouse with SQL server including ETL processes,data modelling and analytics
 
 Welcome to **Datawarehouse and analytics project** repository!
